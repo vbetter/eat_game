@@ -1,0 +1,1 @@
+{"time":{"TotalTurnNum":20,"Unit":"","Desc":"每一局的对战时长"},"clickMax":{"TotalTurnNum":30,"Unit":"","Desc":"角色每局点击次数上限"},"clickUpdate":{"TotalTurnNum":1,"Unit":"","Desc":"角色每局点击次数恢复速度"},"cardNum":{"TotalTurnNum":5,"Unit":"","Desc":"玩家初始任务牌数量"},"cardMax":{"TotalTurnNum":10,"Unit":"","Desc":"玩家卡牌上限数量"}}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "23da4d7b-0f47-4d83-9f5f-a4ecce3ca823",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "mushroom_07": {
+      "ver": "1.0.3",
+      "uuid": "6a6827b6-e139-4f6d-901f-0367eb825dcd",
+      "rawTextureUuid": "23da4d7b-0f47-4d83-9f5f-a4ecce3ca823",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1.5,
+      "trimX": 2,
+      "trimY": 15,
+      "width": 252,
+      "height": 229,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

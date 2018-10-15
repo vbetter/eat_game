@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "edff437d-6ae2-4a09-8d8d-9a435bb463e4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "berries_01": {
+      "ver": "1.0.3",
+      "uuid": "1e02a6df-47b7-41d0-8102-e73b68659bb9",
+      "rawTextureUuid": "edff437d-6ae2-4a09-8d8d-9a435bb463e4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": -2,
+      "trimX": 2,
+      "trimY": 6,
+      "width": 254,
+      "height": 248,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

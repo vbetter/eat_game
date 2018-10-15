@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "63ea5235-e036-4c2d-b2ba-363bf864dd25",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "RoleIconAtlas": {
+      "ver": "1.0.3",
+      "uuid": "c733a056-1802-43ef-8107-3c2edf695300",
+      "rawTextureUuid": "63ea5235-e036-4c2d-b2ba-363bf864dd25",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 280,
+      "height": 56,
+      "rawWidth": 280,
+      "rawHeight": 56,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
